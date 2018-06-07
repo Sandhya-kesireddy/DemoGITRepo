@@ -1,1 +1,6 @@
-First file in branch dev
+1st branch dev
+
+
+updated by adding New line 1
+updated by adding New line 2
+updated by adding New line 3
